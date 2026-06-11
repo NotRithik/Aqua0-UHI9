@@ -1,0 +1,17 @@
+{
+  "name": "aqua0-options-demo-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Aqua0 Options Straddling Demo",
+  "scripts": {
+    "dev": "bun run --hot server.ts",
+    "start": "bun run server.ts",
+    "demo": "bun run demo-options.ts",
+    "test": "bun test"
+  },
+  "dependencies": {
+    "hono": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}

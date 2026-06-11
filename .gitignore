@@ -1,0 +1,39 @@
+# Compiler files
+contracts/cache/
+contracts/out/
+
+# Ignores development broadcast logs
+contracts/broadcast/
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+app/node_modules/
+app/.next/
+
+# IDE
+.vscode/
+.idea/
+.cursor/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Foundry
+*.db.gz
+
+# Debug
+pnpm-debug.log*
+
+# Temp
+temp/
+
+# Local AI / project context
+hookathon-context/
+app/CLAUDE.md
+app/.claude/
