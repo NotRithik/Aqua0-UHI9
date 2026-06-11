@@ -6,7 +6,7 @@
 
 ## Demo Video
 
-> 🎥 **[Watch the Demo (≤ 2 min)](https://youtu.be/IEhYqNid3wU)**  
+> 🎥 **[Watch the Demo (≤ 3 min)](https://youtu.be/IEhYqNid3wU)**  
 
 ---
 
